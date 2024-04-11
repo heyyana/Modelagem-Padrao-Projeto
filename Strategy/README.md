@@ -1,4 +1,4 @@
 <div align="center" style="display: inline_block"><br>
 🎨
 </div>
-Modelagem de Padrão de Projeto aplica padrões de projetos na programação orientada a objetos para criar soluções eficientes e desenvolver e manter arquiteturas que promovam a reutilização de código. Identificar e utilizar as melhores ferramentas de acordo com as demandas do mercado para o desenvolvimento de padrões de projetos.
+O padrão Strategy permite que um objeto mude sua maneira de agir durante a execução, escolhendo entre diferentes formas de fazer algo. Ele faz isso ao colocar diferentes maneiras de agir em classes separadas, tornando fácil trocá-las conforme necessário.
