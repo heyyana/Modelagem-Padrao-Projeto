@@ -1,4 +1,4 @@
 <div align="center" style="display: inline_block"><br>
 🎨
 </div>
-Modelagem de Padrão de Projeto aplica padrões de projetos na programação orientada a objetos para criar soluções eficientes e desenvolver e manter arquiteturas que promovam a reutilização de código. Identificar e utilizar as melhores ferramentas de acordo com as demandas do mercado para o desenvolvimento de padrões de projetos.
+O padrão Observer é como um sistema de notificação, onde você tem um objeto importante (o "sujeito") e uma lista de outros objetos interessados (os "observadores"). Quando algo muda no objeto importante, ele avisa automaticamente todos os observadores na lista.
