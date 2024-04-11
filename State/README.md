@@ -1,4 +1,4 @@
 <div align="center" style="display: inline_block"><br>
 🎨
 </div>
-Modelagem de Padrão de Projeto aplica padrões de projetos na programação orientada a objetos para criar soluções eficientes e desenvolver e manter arquiteturas que promovam a reutilização de código. Identificar e utilizar as melhores ferramentas de acordo com as demandas do mercado para o desenvolvimento de padrões de projetos.
+O padrão State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno muda. Ele faz isso encapsulando estados individuais em objetos separados e delegando a responsabilidade de alterar o estado para esses objetos.
