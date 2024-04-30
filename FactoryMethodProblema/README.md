@@ -1,4 +1,5 @@
 <div align="center" style="display: inline_block"><br>
 🎨
 </div>
-O padrão State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno muda. Ele faz isso encapsulando estados individuais em objetos separados e delegando a responsabilidade de alterar o estado para esses objetos.
+O padrão Factory Method define uma interface para criar um objeto, mas permite que a subclasses possam decidir qual classe instânciar, possibilitando que uma classe seja capaz de prorrogar a instanciação de uma classe para subclasses.
+
