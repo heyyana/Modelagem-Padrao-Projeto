@@ -1,4 +1,5 @@
 <div align="center" style="display: inline_block"><br>
 🎨
 </div>
-O padrão de design Adapter é usado para permitir que interfaces incompatíveis trabalhem juntas. Ele atua como um intermediário entre duas classes que têm interfaces diferentes, permitindo que elas se comuniquem e cooperem.
+O padrão Decorator anexa responsabilidades adicionais a um objeto dinamicamente. Os Decorators fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
+
