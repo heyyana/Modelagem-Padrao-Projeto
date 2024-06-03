@@ -1,4 +1,4 @@
 <div align="center" style="display: inline_block"><br>
 🎨
 </div>
-O padrão Strategy permite que um objeto mude sua maneira de agir durante a execução, escolhendo entre diferentes formas de fazer algo. Ele faz isso ao colocar diferentes maneiras de agir em classes separadas, tornando fácil trocá-las conforme necessário.
+O padrão Chain of Responsability evita o acoplamento do remetente de uma solicitação ao seu receptor, dando a mais de um objeto a oportunidade de tratar a solicitação. Ele encadeia os objetos receptores, passando a solicitação ao longo da cadeia até que um objeto a trate.
